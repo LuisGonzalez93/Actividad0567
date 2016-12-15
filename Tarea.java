@@ -17,7 +17,7 @@ public class Tarea
      * Constructor
      */
 
-    public void Tareas(){
+    public Tarea(){
     tareas = new ArrayList<String>();
     tareaTerminada = new ArrayList<Boolean>();
     }
